@@ -1,2 +1,2 @@
-# Vladislav
+# 
 Web fullstack developer
